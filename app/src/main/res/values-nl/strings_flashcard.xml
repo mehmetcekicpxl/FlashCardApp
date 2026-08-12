@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="swipe_to_study">Veeg om te studeren</string>
+    <string name="i_knew_it">Dat wist ik</string>
+    <string name="i_forgot">Ik ben het vergeten</string>
+    <string name="tap_to_flip">Tik om om te draaien</string>
+    <string name="no_words_yet">Nog geen woorden toegevoegd! Voeg eerst wat woorden toe.</string>
+
+    <!-- Motivational: correct -->
+    <string name="motivation_correct_1">🎉 Super %1$s, ga zo door!</string>
+    <string name="motivation_correct_2">🔥 Wow %1$s, je staat in brand!</string>
+    <string name="motivation_correct_3">⚡ Geweldig %1$s! Wat snel!</string>
+    <string name="motivation_correct_4">✅ Goed gedaan %1$s! Dat was makkelijk voor jou!</string>
+    <string name="motivation_correct_5">💪 %1$s, hou dit tempo vast!</string>
+
+    <!-- Motivational: wrong -->
+    <string name="motivation_wrong_1">😅 Geeft niet %1$s, de volgende keer!</string>
+    <string name="motivation_wrong_2">💡 %1$s, onthoud deze!</string>
+    <string name="motivation_wrong_3">📚 Je ziet deze weer %1$s, maak je geen zorgen.</string>
+
+    <!-- Session summary -->
+    <string name="session_complete">Sessie voltooid!</string>
+    <string name="great_job">Goed gedaan %1$s! 🎉</string>
+    <string name="summary_correct">✅  Correct:  %1$d</string>
+    <string name="summary_wrong">❌  Fout: %1$d</string>
+    <string name="summary_score">📊  Score: %1$d%%</string>
+    <string name="summary_duration">⏱️  Duur:  %1$d min</string>
+    <string name="back_to_home">Terug naar Home</string>
+    <string name="study_again">Opnieuw studeren</string>
+</resources>

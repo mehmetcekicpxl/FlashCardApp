@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="swipe_to_study">Çalışmak için Kaydır</string>
+    <string name="i_knew_it">Bildiğim Kelime</string>
+    <string name="i_forgot">Unuttuğum Kelime</string>
+    <string name="tap_to_flip">Çevirmek için Dokun</string>
+    <string name="no_words_yet">Henüz kelime eklenmedi! Önce biraz kelime ekle.</string>
+
+    <!-- Motivational: correct -->
+    <string name="motivation_correct_1">🎉 Süper %1$s, devam et!</string>
+    <string name="motivation_correct_2">🔥 Wow %1$s, çekiyorsun!</string>
+    <string name="motivation_correct_3">⚡ Harika %1$s! Ne hız ama!</string>
+    <string name="motivation_correct_4">✅ Aferin %1$s! Bu sana kolay geldi!</string>
+    <string name="motivation_correct_5">💪 %1$s, bu tempoda hep öğrenirsin!</string>
+
+    <!-- Motivational: wrong -->
+    <string name="motivation_wrong_1">😅 Olur %1$s, bir dahaki sefere!</string>
+    <string name="motivation_wrong_2">💡 %1$s, bu soruyu aklına kaz!</string>
+    <string name="motivation_wrong_3">📚 Tekrar göreceksin %1$s, merak etme.</string>
+
+    <!-- Session summary -->
+    <string name="session_complete">Oturum Tamamlandı!</string>
+    <string name="great_job">Harika iş %1$s! 🎉</string>
+    <string name="summary_correct">✅  Doğru:  %1$d</string>
+    <string name="summary_wrong">❌  Yanlış: %1$d</string>
+    <string name="summary_score">📊  Başarı: %%%1$d</string>
+    <string name="summary_duration">⏱️  Süre:  %1$d dakika</string>
+    <string name="back_to_home">Ana Sayfaya Dön</string>
+    <string name="study_again">Tekrar Çalış</string>
+</resources>

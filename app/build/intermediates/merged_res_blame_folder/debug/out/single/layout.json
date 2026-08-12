@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_onboarding.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_word_list.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_word_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_fill_blanks.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_fill_blanks.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_practice.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_practice.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_practice_summary.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_practice_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_matching.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_matching.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_practice_selector.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_practice_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_add_word.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_add_word.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeDebugResources-52:/layout/fragment_add_word.xml",
+        "source": "com.example.flashcardapp-main-55:/layout/fragment_add_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-mergeDebugResources-52:\\layout\\item_word.xml",
+        "source": "C:\\Users\\12304364\\.gradle\\daemon\\8.5\\com.example.flashcardapp-main-55:\\layout\\item_word.xml"
+    }
+]

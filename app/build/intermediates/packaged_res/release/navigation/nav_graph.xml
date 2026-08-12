@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/onboardingFragment">
+
+    <!-- Global Actions -->
+    <action
+        android:id="@+id/action_global_dashboardFragment"
+        app:destination="@id/dashboardFragment"
+        app:launchSingleTop="true"
+        app:popUpTo="@id/nav_graph"
+        app:popUpToInclusive="true" />
+
+    <action
+        android:id="@+id/action_global_practiceFragment"
+        app:destination="@id/practiceFragment"
+        app:popUpTo="@id/dashboardFragment" />
+
+    <action
+        android:id="@+id/action_global_fillBlanksFragment"
+        app:destination="@id/fillBlanksFragment"
+        app:popUpTo="@id/dashboardFragment" />
+
+    <action
+        android:id="@+id/action_global_matchingFragment"
+        app:destination="@id/matchingFragment"
+        app:popUpTo="@id/dashboardFragment" />
+
+    <fragment
+        android:id="@+id/onboardingFragment"
+        android:name="com.example.flashcardapp.ui.onboarding.OnboardingFragment"
+        android:label="Onboarding"
+        tools:layout="@layout/fragment_onboarding">
+        <action
+            android:id="@+id/action_onboardingFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment"
+            app:popUpTo="@id/onboardingFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.example.flashcardapp.ui.dashboard.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard">
+        <action
+            android:id="@+id/action_dashboardFragment_to_addWordFragment"
+            app:destination="@id/addWordFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_practiceFragment"
+            app:destination="@id/practiceFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_practiceSelectorFragment"
+            app:destination="@id/practiceSelectorFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_wordListFragment"
+            app:destination="@id/wordListFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/addWordFragment"
+        android:name="com.example.flashcardapp.ui.words.AddWordFragment"
+        android:label="Add Word"
+        tools:layout="@layout/fragment_add_word" />
+
+    <fragment
+        android:id="@+id/wordListFragment"
+        android:name="com.example.flashcardapp.ui.words.WordListFragment"
+        android:label="My Word List"
+        tools:layout="@layout/fragment_word_list" />
+
+    <fragment
+        android:id="@+id/practiceFragment"
+        android:name="com.example.flashcardapp.ui.practice.PracticeFragment"
+        android:label="Practice Mode"
+        tools:layout="@layout/fragment_practice">
+        <action
+            android:id="@+id/action_practiceFragment_to_practiceSummaryFragment"
+            app:destination="@id/practiceSummaryFragment"
+            app:popUpTo="@id/practiceFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/practiceSelectorFragment"
+        android:name="com.example.flashcardapp.ui.practice.PracticeSelectorFragment"
+        android:label="Practice Selector"
+        tools:layout="@layout/fragment_practice_selector">
+        <action
+            android:id="@+id/action_practiceSelectorFragment_to_practiceFragment"
+            app:destination="@id/practiceFragment" />
+        <action
+            android:id="@+id/action_practiceSelectorFragment_to_fillBlanksFragment"
+            app:destination="@id/fillBlanksFragment" />
+        <action
+            android:id="@+id/action_practiceSelectorFragment_to_matchingFragment"
+            app:destination="@id/matchingFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/fillBlanksFragment"
+        android:name="com.example.flashcardapp.ui.practice.FillBlanksFragment"
+        android:label="Fill in the Blanks"
+        tools:layout="@layout/fragment_fill_blanks">
+        <action
+            android:id="@+id/action_fillBlanksFragment_to_practiceSummaryFragment"
+            app:destination="@id/practiceSummaryFragment"
+            app:popUpTo="@id/fillBlanksFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/matchingFragment"
+        android:name="com.example.flashcardapp.ui.practice.MatchingFragment"
+        android:label="Matching"
+        tools:layout="@layout/fragment_matching">
+        <action
+            android:id="@+id/action_matchingFragment_to_practiceSummaryFragment"
+            app:destination="@id/practiceSummaryFragment"
+            app:popUpTo="@id/matchingFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/practiceSummaryFragment"
+        android:name="com.example.flashcardapp.ui.practice.PracticeSummaryFragment"
+        android:label="Summary"
+        tools:layout="@layout/fragment_practice_summary">
+        <argument
+            android:name="correctCount"
+            app:argType="integer" />
+        <argument
+            android:name="wrongCount"
+            app:argType="integer" />
+        <argument
+            android:name="durationMinutes"
+            app:argType="integer" />
+        <argument
+            android:name="practiceMode"
+            app:argType="string" />
+    </fragment>
+
+</navigation>

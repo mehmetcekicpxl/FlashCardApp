@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlashCardApp</string>
+    <string name="welcome">Welkom</string>
+    <string name="what_is_your_name">Wat is je naam?</string>
+    <string name="continue_btn">Doorgaan</string>
+    <string name="dashboard_hello">Klaar %1$s? Vandaag gaan we geweldige dingen doen!</string>
+    <string name="study_daily_words">Bestudeer Dagelijkse Woorden</string>
+    <string name="extra_practice">Extra Oefenen</string>
+    <string name="total_words">Totaal Woorden: %1$d</string>
+    <string name="add_new_word">Nieuw Woord Toevoegen</string>
+    <string name="word">Woord</string>
+    <string name="meaning">Betekenis</string>
+    <string name="example_sentence">Voorbeeldzin</string>
+    <string name="save">Opslaan</string>
+    <string name="practice_mode">Oefenmodus</string>
+    <string name="flashcards">Flitskaarten</string>
+    <string name="fill_in_blanks">Vul de open plekken in</string>
+    <string name="matching">Overeenkomen</string>
+    <string name="category">Categorie</string>
+    <string name="category_general">Algemeen</string>
+    <string name="category_business">Zakelijk</string>
+    <string name="category_travel">Reizen</string>
+    <string name="category_other">Andere</string>
+    <string name="word_of_the_day">Woord van de dag</string>
+    <string name="statistics">Statistieken</string>
+    <string name="weekly_progress">Wekelijkse Voortgang</string>
+    <string name="select_category">Selecteer Categorie</string>
+    <string name="select_language">Selecteer Taal (voor Uitspraak)</string>
+    <string name="lang_english">Engels</string>
+    <string name="lang_turkish">Turks</string>
+    <string name="lang_dutch">Nederlands</string>
+    <string name="lang_spanish">Spaans</string>
+    <string name="lang_french">Frans</string>
+    <string name="lang_german">Duits</string>
+    <string name="see_all">Alles Bekijken</string>
+    <string name="your_vocabulary">Jouw Woordenschat</string>
+    <string name="search_words_hint">Zoek je woorden…</string>
+    <string name="my_word_list">Mijn Woordenlijst</string>
+    <string name="daily_progress_format">%1$d / %2$d woorden bestudeerd</string>
+</resources>

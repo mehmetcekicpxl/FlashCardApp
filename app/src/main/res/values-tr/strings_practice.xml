@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_practice_mode">Pratik Modunu Seç</string>
+    <string name="fill_in_blank_desc">Boşluğu doğru kelimeyle doldur</string>
+    <string name="matching_desc">Kelimeleri anlamlarıyla eşleştir</string>
+
+    <string name="fill_blank_title">Boşluk Doldurma</string>
+    <string name="fill_blank_hint">Cevabı yaz…</string>
+    <string name="check_answer">Kontrol Et</string>
+    <string name="correct_answer">✅ Doğru!</string>
+    <string name="wrong_answer_format">❌ Yanlış! Doğru cevap: %1$s</string>
+    <string name="next_question">Sonraki</string>
+    <string name="what_means">\"%1$s\" ne demek?</string>
+
+    <string name="matching_title">Eşleştirme</string>
+    <string name="matching_instruction">Bir kelimeye, sonra anlamına dokun</string>
+    <string name="matched">Eşleşti!</string>
+    <string name="not_a_match">Eşleşmedi, tekrar dene!</string>
+    <string name="all_matched">Hepsi eşleşti! 🎉</string>
+    <string name="next_round">Sonraki Tur</string>
+
+    <string name="need_more_words">Bu mod için en az 4 kelime gerekli. Önce daha fazla kelime ekle!</string>
+    <string name="summary_title">Ders Özeti</string>
+    <string name="summary_subtitle">Bugün harika bir ilerleme kaydettin!</string>
+    <string name="label_correct">Doğru</string>
+    <string name="label_wrong">Yanlış</string>
+    <string name="label_duration">Süre</string>
+    <string name="label_score">Başarı Oranı</string>
+    <string name="btn_home">Ana Sayfaya Dön</string>
+    <string name="btn_retry">Tekrar Dene</string>
+</resources>

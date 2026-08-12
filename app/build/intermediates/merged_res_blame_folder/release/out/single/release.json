@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_word_list.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_word_list.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/animator_front_animator.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/animator/front_animator.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/drawable_circular_progress_bar.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/drawable/circular_progress_bar.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/drawable_custom_progressbar_modern.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/drawable/custom_progressbar_modern.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_matching.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_matching.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/drawable_custom_progressbar.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/drawable/custom_progressbar.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/animator_back_animator.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/animator/back_animator.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/drawable_bg_audio_button.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/drawable/bg_audio_button.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_item_word.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/item_word.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/drawable_bg_search_view.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/drawable/bg_search_view.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/drawable_bg_card_premium.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/drawable/bg_card_premium.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_practice_selector.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_practice_selector.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_practice.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_practice.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/drawable_bg_dashboard_header.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/drawable/bg_dashboard_header.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_add_word.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_add_word.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_onboarding.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_fill_blanks.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_fill_blanks.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-merged_res-53:/layout_fragment_practice_summary.xml.flat",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_practice_summary.xml"
+    }
+]

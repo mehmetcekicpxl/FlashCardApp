@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_fill_blanks.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_fill_blanks.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/activity_main.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_add_word.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_add_word.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_word_list.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_word_list.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_onboarding.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_dashboard.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_practice_summary.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_practice_summary.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_practice.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_practice.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_matching.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_matching.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/item_word.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/item_word.xml"
+    },
+    {
+        "merged": "com.example.flashcardapp-mergeReleaseResources-52:/layout/fragment_practice_selector.xml",
+        "source": "com.example.flashcardapp-main-54:/layout/fragment_practice_selector.xml"
+    }
+]

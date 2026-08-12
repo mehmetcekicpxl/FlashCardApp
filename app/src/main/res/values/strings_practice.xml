@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Practice mode selector -->
+    <string name="choose_practice_mode">Choose Practice Mode</string>
+    <string name="fill_in_blank_desc">Fill in the blank with the correct word</string>
+    <string name="matching_desc">Match the words with their meanings</string>
+
+    <!-- Fill in blanks -->
+    <string name="fill_blank_title">Fill in the Blank</string>
+    <string name="fill_blank_hint">Type the answer…</string>
+    <string name="check_answer">Check</string>
+    <string name="correct_answer">✅ Correct!</string>
+    <string name="wrong_answer_format">❌ Wrong! The answer was: %1$s</string>
+    <string name="next_question">Next</string>
+    <string name="what_means">What does \"%1$s\" mean?</string>
+
+    <!-- Matching -->
+    <string name="matching_title">Matching</string>
+    <string name="matching_instruction">Tap a word, then tap its meaning</string>
+    <string name="matched">Matched!</string>
+    <string name="not_a_match">Not a match, try again!</string>
+    <string name="all_matched">All matched! 🎉</string>
+    <string name="next_round">Next Round</string>
+
+    <!-- Shared -->
+    <string name="need_more_words">You need at least 4 words for this mode. Add more words first!</string>
+    <string name="summary_title">Session Summary</string>
+    <string name="summary_subtitle">Amazing progress today!</string>
+    <string name="label_correct">Correct</string>
+    <string name="label_wrong">Wrong</string>
+    <string name="label_duration">Duration</string>
+    <string name="label_score">Accuracy</string>
+    <string name="btn_home">Back to Home</string>
+    <string name="btn_retry">Try Again</string>
+</resources>

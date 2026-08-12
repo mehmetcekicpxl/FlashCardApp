@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F4F7F6</color>
+    <color name="black">#FF000000</color>
+    <color name="error">#FF1744</color>
+    <color name="header_end">#3949AB</color>
+    <color name="header_start">#1A237E</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#000000</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="primary">#1A237E</color>
+    <color name="primary_dark">#000051</color>
+    <color name="primary_light">#534BAE</color>
+    <color name="secondary">#00E5FF</color>
+    <color name="secondary_dark">#00B8D4</color>
+    <color name="secondary_light">#69F0FF</color>
+    <color name="streak_gold">#FFD700</color>
+    <color name="streak_orange">#FF9100</color>
+    <color name="success">#00C853</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="warning">#FFD600</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_new_word">Add New Word</string>
+    <string name="all_matched">All matched! 🎉</string>
+    <string name="app_name">FlashCardApp</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="btn_home">Back to Home</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="category">Category</string>
+    <string name="category_business">Business</string>
+    <string name="category_general">General</string>
+    <string name="category_other">Other</string>
+    <string name="category_travel">Travel</string>
+    <string name="check_answer">Check</string>
+    <string name="choose_practice_mode">Choose Practice Mode</string>
+    <string name="continue_btn">Continue</string>
+    <string name="correct_answer">✅ Correct!</string>
+    <string name="daily_progress_format">%1$d / %2$d words studied</string>
+    <string name="dashboard_hello">Ready, %1$s? Today we\'ll do great things!</string>
+    <string name="example_sentence">Example Sentence</string>
+    <string name="extra_practice">Extra Practice</string>
+    <string name="fill_blank_hint">Type the answer…</string>
+    <string name="fill_blank_title">Fill in the Blank</string>
+    <string name="fill_in_blank_desc">Fill in the blank with the correct word</string>
+    <string name="fill_in_blanks">Fill in the Blanks</string>
+    <string name="flashcards">Flashcards</string>
+    <string name="great_job">Great job %1$s! 🎉</string>
+    <string name="i_forgot">I forgot</string>
+    <string name="i_knew_it">I knew it</string>
+    <string name="label_correct">Correct</string>
+    <string name="label_duration">Duration</string>
+    <string name="label_score">Accuracy</string>
+    <string name="label_wrong">Wrong</string>
+    <string name="lang_dutch">Dutch</string>
+    <string name="lang_english">English</string>
+    <string name="lang_french">French</string>
+    <string name="lang_german">German</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="lang_turkish">Turkish</string>
+    <string name="matched">Matched!</string>
+    <string name="matching">Matching</string>
+    <string name="matching_desc">Match the words with their meanings</string>
+    <string name="matching_instruction">Tap a word, then tap its meaning</string>
+    <string name="matching_title">Matching</string>
+    <string name="meaning">Meaning</string>
+    <string name="motivation_correct_1">🎉 Great job %1$s, keep going!</string>
+    <string name="motivation_correct_2">🔥 Wow %1$s, you\'re on fire!</string>
+    <string name="motivation_correct_3">⚡ Amazing %1$s! So fast!</string>
+    <string name="motivation_correct_4">✅ Well done %1$s! That was easy for you!</string>
+    <string name="motivation_correct_5">💪 %1$s, keep this tempo up!</string>
+    <string name="motivation_wrong_1">😅 It\'s okay %1$s, next time!</string>
+    <string name="motivation_wrong_2">💡 %1$s, remember this one!</string>
+    <string name="motivation_wrong_3">📚 You\'ll see this again %1$s, don\'t worry.</string>
+    <string name="my_word_list">My Word List</string>
+    <string name="need_more_words">You need at least 4 words for this mode. Add more words first!</string>
+    <string name="next_question">Next</string>
+    <string name="next_round">Next Round</string>
+    <string name="no_words_yet">No words added yet! Add some words first.</string>
+    <string name="not_a_match">Not a match, try again!</string>
+    <string name="practice_mode">Practice Mode</string>
+    <string name="save">Save</string>
+    <string name="search_words_hint">Search your words…</string>
+    <string name="see_all">See All</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_language">Select Language (for Pronunciation)</string>
+    <string name="session_complete">Session Complete!</string>
+    <string name="statistics">Statistics</string>
+    <string name="study_again">Study Again</string>
+    <string name="study_daily_words">Study Daily Words</string>
+    <string name="summary_correct">✅  Correct:  %1$d</string>
+    <string name="summary_duration">⏱️  Duration:  %1$d min</string>
+    <string name="summary_score">📊  Score: %1$d%%</string>
+    <string name="summary_subtitle">Amazing progress today!</string>
+    <string name="summary_title">Session Summary</string>
+    <string name="summary_wrong">❌  Wrong: %1$d</string>
+    <string name="swipe_to_study">Swipe to Study</string>
+    <string name="tap_to_flip">Tap to flip</string>
+    <string name="total_words">Total Words: %1$d</string>
+    <string name="weekly_progress">Weekly Progress</string>
+    <string name="welcome">Welcome</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="what_means">What does \"%1$s\" mean?</string>
+    <string name="word">Word</string>
+    <string name="word_of_the_day">Word of the Day</string>
+    <string name="wrong_answer_format">❌ Wrong! The answer was: %1$s</string>
+    <string name="your_vocabulary">Your Vocabulary</string>
+    <style name="CustomEditTextStyle" parent="Widget.Material3.TextInputEditText.OutlinedBox">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">#757575</item>
+    </style>
+    <style name="CustomTextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/primary</item>
+        <item name="android:textColorHint">#757575</item>
+    </style>
+    <style name="PremiumButton" parent="Widget.Material3.Button">
+        <item name="cornerRadius">16dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+    <style name="PremiumCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardElevation">6dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+    <style name="Theme.FlashCardApp" parent="Theme.Material3.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="colorSurfaceVariant">@color/white</item>
+
+        
+        <item name="textInputStyle">@style/CustomTextInputLayout</item>
+        <item name="android:editTextStyle">@style/CustomEditTextStyle</item>
+    </style>
+</resources>

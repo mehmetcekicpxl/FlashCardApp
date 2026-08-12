@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlashCardApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="continue_btn">Continue</string>
+    <string name="dashboard_hello">Ready, %1$s? Today we\'ll do great things!</string>
+    <string name="study_daily_words">Study Daily Words</string>
+    <string name="extra_practice">Extra Practice</string>
+    <string name="total_words">Total Words: %1$d</string>
+    <string name="add_new_word">Add New Word</string>
+    <string name="word">Word</string>
+    <string name="meaning">Meaning</string>
+    <string name="example_sentence">Example Sentence</string>
+    <string name="save">Save</string>
+    <string name="practice_mode">Practice Mode</string>
+    <string name="flashcards">Flashcards</string>
+    <string name="fill_in_blanks">Fill in the Blanks</string>
+    <string name="matching">Matching</string>
+    <string name="category">Category</string>
+    <string name="category_general">General</string>
+    <string name="category_business">Business</string>
+    <string name="category_travel">Travel</string>
+    <string name="category_other">Other</string>
+    <string name="word_of_the_day">Word of the Day</string>
+    <string name="statistics">Statistics</string>
+    <string name="weekly_progress">Weekly Progress</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_language">Select Language (for Pronunciation)</string>
+    <string name="lang_english">English</string>
+    <string name="lang_turkish">Turkish</string>
+    <string name="lang_dutch">Dutch</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="lang_french">French</string>
+    <string name="lang_german">German</string>
+    <string name="see_all">See All</string>
+    <string name="your_vocabulary">Your Vocabulary</string>
+    <string name="search_words_hint">Search your words…</string>
+    <string name="my_word_list">My Word List</string>
+    <string name="daily_progress_format">%1$d / %2$d words studied</string>
+</resources>

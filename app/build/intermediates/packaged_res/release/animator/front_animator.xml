@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:valueFrom="1.0"
+        android:valueTo="0.0"
+        android:propertyName="alpha"
+        android:duration="0" />
+
+    <!-- Rotate Out -->
+    <objectAnimator
+        android:duration="400"
+        android:propertyName="rotationY"
+        android:valueFrom="0"
+        android:valueTo="180" />
+
+    <!-- Scale Up/Down -->
+    <objectAnimator
+        android:duration="200"
+        android:propertyName="scaleX"
+        android:valueFrom="1.0"
+        android:valueTo="0.9" />
+    <objectAnimator
+        android:duration="200"
+        android:propertyName="scaleY"
+        android:valueFrom="1.0"
+        android:valueTo="0.9"
+        android:startOffset="0" />
+    <objectAnimator
+        android:duration="200"
+        android:propertyName="scaleX"
+        android:valueFrom="0.9"
+        android:valueTo="1.0"
+        android:startOffset="200" />
+    <objectAnimator
+        android:duration="200"
+        android:propertyName="scaleY"
+        android:valueFrom="0.9"
+        android:valueTo="1.0"
+        android:startOffset="200" />
+
+    <objectAnimator
+        android:duration="0"
+        android:propertyName="alpha"
+        android:startOffset="200"
+        android:valueFrom="1.0"
+        android:valueTo="0.0" />
+</set>

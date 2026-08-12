@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_practice_mode">Kies oefenmodus</string>
+    <string name="fill_in_blank_desc">Vul de open plek in met het juiste woord</string>
+    <string name="matching_desc">Koppel de woorden aan hun betekenis</string>
+
+    <string name="fill_blank_title">Vul de open plek in</string>
+    <string name="fill_blank_hint">Typ het antwoord…</string>
+    <string name="check_answer">Controleren</string>
+    <string name="correct_answer">✅ Correct!</string>
+    <string name="wrong_answer_format">❌ Fout! Het antwoord was: %1$s</string>
+    <string name="next_question">Volgende</string>
+    <string name="what_means">Wat betekent \"%1$s\"?</string>
+
+    <string name="matching_title">Overeenkomen</string>
+    <string name="matching_instruction">Tik op een woord en dan op de betekenis</string>
+    <string name="matched">Gematcht!</string>
+    <string name="not_a_match">Geen match, probeer opnieuw!</string>
+    <string name="all_matched">Alles gematcht! 🎉</string>
+    <string name="next_round">Volgende ronde</string>
+
+    <string name="need_more_words">Je hebt minstens 4 woorden nodig voor deze modus. Voeg eerst meer woorden toe!</string>
+    <string name="summary_title">Overzicht</string>
+    <string name="summary_subtitle">Geweldige vooruitgang vandaag!</string>
+    <string name="label_correct">Correct</string>
+    <string name="label_wrong">Fout</string>
+    <string name="label_duration">Duur</string>
+    <string name="label_score">Nauwkeurigheid</string>
+    <string name="btn_home">Terug naar Home</string>
+    <string name="btn_retry">Opnieuw Proberen</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlashCard Uygulaması</string>
+    <string name="welcome">Hoş geldin</string>
+    <string name="what_is_your_name">İsmin nedir?</string>
+    <string name="continue_btn">Devam Et</string>
+    <string name="dashboard_hello">Hazır mısın %1$s? Bugün harika işler başaracağız!</string>
+    <string name="study_daily_words">Günün Kelimelerini Çalış</string>
+    <string name="extra_practice">Ekstra Pratik Yap</string>
+    <string name="total_words">Toplam Kelime: %1$d</string>
+    <string name="add_new_word">Yeni Kelime Ekle</string>
+    <string name="word">Kelime</string>
+    <string name="meaning">Anlamı</string>
+    <string name="example_sentence">Örnek Cümle</string>
+    <string name="save">Kaydet</string>
+    <string name="practice_mode">Pratik Modu</string>
+    <string name="flashcards">Bilgi Kartları</string>
+    <string name="fill_in_blanks">Boşluk Doldurma</string>
+    <string name="matching">Eşleştirme</string>
+    <string name="category">Kategori</string>
+    <string name="category_general">Genel</string>
+    <string name="category_business">İş</string>
+    <string name="category_travel">Seyahat</string>
+    <string name="category_other">Diğer</string>
+    <string name="word_of_the_day">Günün Kelimesi</string>
+    <string name="statistics">İstatistikler</string>
+    <string name="weekly_progress">Haftalık İlerleme</string>
+    <string name="select_category">Kategori Seç</string>
+    <string name="select_language">Dil Seç (Telaffuz için)</string>
+    <string name="lang_english">İngilizce</string>
+    <string name="lang_turkish">Türkçe</string>
+    <string name="lang_dutch">Flemenkçe</string>
+    <string name="lang_spanish">İspanyolca</string>
+    <string name="lang_french">Fransızca</string>
+    <string name="lang_german">Almanca</string>
+    <string name="see_all">Hepsini Gör</string>
+    <string name="your_vocabulary">Kelime Haznen</string>
+    <string name="search_words_hint">Kelimelerinde ara…</string>
+    <string name="my_word_list">Kelime Listem</string>
+    <string name="daily_progress_format">%1$d / %2$d kelime çalışıldı</string>
+</resources>

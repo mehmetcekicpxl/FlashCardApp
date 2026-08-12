@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="swipe_to_study">Swipe to Study</string>
+    <string name="i_knew_it">I knew it</string>
+    <string name="i_forgot">I forgot</string>
+    <string name="tap_to_flip">Tap to flip</string>
+    <string name="no_words_yet">No words added yet! Add some words first.</string>
+
+    <!-- Motivational: correct -->
+    <string name="motivation_correct_1">🎉 Great job %1$s, keep going!</string>
+    <string name="motivation_correct_2">🔥 Wow %1$s, you\'re on fire!</string>
+    <string name="motivation_correct_3">⚡ Amazing %1$s! So fast!</string>
+    <string name="motivation_correct_4">✅ Well done %1$s! That was easy for you!</string>
+    <string name="motivation_correct_5">💪 %1$s, keep this tempo up!</string>
+
+    <!-- Motivational: wrong -->
+    <string name="motivation_wrong_1">😅 It\'s okay %1$s, next time!</string>
+    <string name="motivation_wrong_2">💡 %1$s, remember this one!</string>
+    <string name="motivation_wrong_3">📚 You\'ll see this again %1$s, don\'t worry.</string>
+
+    <!-- Session summary -->
+    <string name="session_complete">Session Complete!</string>
+    <string name="great_job">Great job %1$s! 🎉</string>
+    <string name="summary_correct">✅  Correct:  %1$d</string>
+    <string name="summary_wrong">❌  Wrong: %1$d</string>
+    <string name="summary_score">📊  Score: %1$d%%</string>
+    <string name="summary_duration">⏱️  Duration:  %1$d min</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="study_again">Study Again</string>
+</resources>

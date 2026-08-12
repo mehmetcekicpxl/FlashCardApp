@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary & Secondary (Midnight & Electric) -->
+    <color name="primary">#1A237E</color>
+    <color name="primary_light">#534BAE</color>
+    <color name="primary_dark">#000051</color>
+    <color name="secondary">#00E5FF</color>
+    <color name="secondary_light">#69F0FF</color>
+    <color name="secondary_dark">#00B8D4</color>
+
+    <!-- Neutrals -->
+    <color name="background">#F4F7F6</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#000000</color>
+    <color name="on_surface">#1C1B1F</color>
+
+    <!-- Semantic -->
+    <color name="success">#00C853</color>
+    <color name="error">#FF1744</color>
+    <color name="warning">#FFD600</color>
+    <color name="streak_gold">#FFD700</color>
+    <color name="streak_orange">#FF9100</color>
+
+    <!-- Gradients -->
+    <color name="header_start">#1A237E</color>
+    <color name="header_end">#3949AB</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
