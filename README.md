@@ -25,6 +25,7 @@ Dit project is zorgvuldig ontwikkeld met de nadruk op schone code, schaalbaarhei
 <img width="450" height="800" alt="flashcard4" src="https://github.com/user-attachments/assets/4f29a8a5-66ee-4355-a3d7-07044e815a41" />
 <img width="450" height="800" alt="flashcard5" src="https://github.com/user-attachments/assets/d8a6dfac-186c-467d-b4d8-9e63d858ad42" />
 <img width="450" height="800" alt="flashcard6" src="https://github.com/user-attachments/assets/490fe616-079b-421d-be6c-62c9bf5fc87d" />
+
 ## 🚀 Installatie & Gebruik
 1. Clone deze repository naar uw lokale machine.
 2. Open het project in **Android Studio**.
